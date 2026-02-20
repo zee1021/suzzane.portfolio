@@ -1,4 +1,6 @@
 code:   php artisan make:controller ProductController
+Open app/Http/Controllers/ProductController.php
+
 
 <?php
 
