@@ -1,3 +1,5 @@
+code:   php artisan make:controller ProductController
+
 <?php
 
 namespace App\Http\Controllers;
